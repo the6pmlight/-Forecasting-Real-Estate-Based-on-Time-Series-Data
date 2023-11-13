@@ -1,0 +1,10 @@
+D:\DL\Project_DL\Process\RealEstateAI\RealEstateComparisonApp\obj\x64\Debug\net5.0-windows\RealEstateComparisonApp.csproj.AssemblyReference.cache
+D:\DL\Project_DL\Process\RealEstateAI\RealEstateComparisonApp\obj\x64\Debug\net5.0-windows\MainWindow.baml
+D:\DL\Project_DL\Process\RealEstateAI\RealEstateComparisonApp\obj\x64\Debug\net5.0-windows\MainWindow.g.cs
+D:\DL\Project_DL\Process\RealEstateAI\RealEstateComparisonApp\obj\x64\Debug\net5.0-windows\App.g.cs
+D:\DL\Project_DL\Process\RealEstateAI\RealEstateComparisonApp\obj\x64\Debug\net5.0-windows\RealEstateComparisonApp_MarkupCompile.cache
+D:\DL\Project_DL\Process\RealEstateAI\RealEstateComparisonApp\obj\x64\Debug\net5.0-windows\RealEstateComparisonApp.g.resources
+D:\DL\Project_DL\Process\RealEstateAI\RealEstateComparisonApp\obj\x64\Debug\net5.0-windows\RealEstateComparisonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DL\Project_DL\Process\RealEstateAI\RealEstateComparisonApp\obj\x64\Debug\net5.0-windows\RealEstateComparisonApp.AssemblyInfoInputs.cache
+D:\DL\Project_DL\Process\RealEstateAI\RealEstateComparisonApp\obj\x64\Debug\net5.0-windows\RealEstateComparisonApp.AssemblyInfo.cs
+D:\DL\Project_DL\Process\RealEstateAI\RealEstateComparisonApp\obj\x64\Debug\net5.0-windows\RealEstateComparisonApp.csproj.CoreCompileInputs.cache

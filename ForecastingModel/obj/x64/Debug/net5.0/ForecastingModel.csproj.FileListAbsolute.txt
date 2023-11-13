@@ -1,0 +1,14 @@
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\bin\x64\Debug\net5.0\Modules\XPlot.Plotly.Interactive\XPlot.Plotly.Interactive.psd1
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\bin\x64\Debug\net5.0\runtimes\win-x64\native\WebView2Loader.dll
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\bin\x64\Debug\net5.0\ForecastingModel.deps.json
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\bin\x64\Debug\net5.0\ForecastingModel.dll
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\bin\x64\Debug\net5.0\ref\ForecastingModel.dll
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\bin\x64\Debug\net5.0\ForecastingModel.pdb
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\obj\x64\Debug\net5.0\ForecastingModel.csproj.AssemblyReference.cache
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\obj\x64\Debug\net5.0\ForecastingModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\obj\x64\Debug\net5.0\ForecastingModel.AssemblyInfoInputs.cache
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\obj\x64\Debug\net5.0\ForecastingModel.AssemblyInfo.cs
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\obj\x64\Debug\net5.0\ForecastingModel.csproj.CoreCompileInputs.cache
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\obj\x64\Debug\net5.0\ForecastingModel.dll
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\obj\x64\Debug\net5.0\ref\ForecastingModel.dll
+D:\DL\Project_DL\Process\RealEstateAI\ForecastingModel\obj\x64\Debug\net5.0\ForecastingModel.pdb

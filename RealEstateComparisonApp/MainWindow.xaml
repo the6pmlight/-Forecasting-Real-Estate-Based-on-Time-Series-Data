@@ -1,0 +1,32 @@
+﻿<Window x:Class="RealEstateComparisonApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:wpf="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
+        Title="Real Estate Price Comparison" Width="800" Height="600">
+    <DockPanel>
+        <Grid DockPanel.Dock="Top" Height="100">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
+                <Label Content="Select Dataset:" FontSize="16" VerticalAlignment="Center"/>
+                <TextBox x:Name="txtDataset" FontSize="16" Width="400" IsReadOnly="True" VerticalAlignment="Center" Margin="10,0"/>
+                <Button x:Name="btnPickDataset" Content="Browse" FontSize="16" Click="btnPickDataset_Click" VerticalAlignment="Center"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="10">
+                <Label Content="Year:" FontSize="16" VerticalAlignment="Center"/>
+                <ComboBox x:Name="cboYear" FontSize="16" Width="100" VerticalAlignment="Center" Margin="10,0"/>
+                <Button x:Name="btnCompare" Content="Compare" FontSize="16" Click="btnCompare_Click" VerticalAlignment="Center" Margin="10,0" Width="101"/>
+            </StackPanel>
+
+        </Grid>
+        <Grid>
+            <wpf:WebView2 x:Name="myWebBrowser"> <!--//ctrl K + C or U-->
+
+            </wpf:WebView2>
+        </Grid>
+    </DockPanel>
+    
+</Window>
